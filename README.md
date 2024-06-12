@@ -4,13 +4,10 @@
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>📺 Certifications</h2>
+<h2>📃 Certifications & Courses</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Introduction to the Incident Command System, ICS 100](https://drive.google.com/file/d/1ym7YkRQ4SVPs0l9CTjhQYQcTbX0fImvf/view)
+- [Qualys Vulnerability Management Detection and Response](https://drive.google.com/file/d/1J6x5dBR58jsxMbp3cI1VWeLLBtoE8i6_/view)
 
 <h2> 🤳 Connect with me:</h2>
 
