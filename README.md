@@ -1,14 +1,9 @@
-<h1>Hi, I'm Nishant!</h1>
+# Nishant Carvalho — IT Support → Security Operations
+Melbourne, AU · Master of Cybersecurity (Swinburne)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Building blue-team labs: SIEM detections, AD attack/detect, cloud security.
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-<h2>📃 Certifications & Courses</h2>
-
-- [Introduction to the Incident Command System, ICS 100](https://drive.google.com/file/d/1ym7YkRQ4SVPs0l9CTjhQYQcTbX0fImvf/view)
-- [Qualys Vulnerability Management Detection and Response](https://drive.google.com/file/d/1J6x5dBR58jsxMbp3cI1VWeLLBtoE8i6_/view)
-
+**Certs:** Splunk SODA · Qualys VMDR · AWS Cloud Practitioner (in progress)
 <h2> 🤳 Connect with me:</h2>
 
 
