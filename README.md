@@ -12,3 +12,6 @@ Baselined and hardened an Ubuntu server with Lynis (hardening index 61 to 75), a
 
 **[Lab 02: macOS Hardening and Log Analysis](https://github.com/carvalhonishant/lab-02-macos-hardening-logging)**
 Hardened a managed macOS endpoint (FileVault, application firewall, stealth mode) and wrote a Bash tool to triage the unified log for high signal events. Each hardening change is proven in the system's own logs.
+
+**[Lab 03: Splunk SIEM Detection](https://github.com/carvalhonishant/lab-03-splunk-siem)**
+SSH brute force detection in Splunk: SPL correlation search, a scheduled alert, and a dashboard.
