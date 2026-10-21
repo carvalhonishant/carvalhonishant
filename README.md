@@ -15,3 +15,6 @@ Hardened a managed macOS endpoint (FileVault, application firewall, stealth mode
 
 **[Lab 03: Splunk SIEM Detection](https://github.com/carvalhonishant/lab-03-splunk-siem)**
 SSH brute force detection in Splunk: SPL correlation search, a scheduled alert, and a dashboard.
+
+**[Lab 04: Python SSH Log Parser](https://github.com/carvalhonishant/lab-04-python-log-parser)**
+A Python tool that parses SSH logs and flags brute force, breaches and known bad IPs, with JSON output and automation friendly exit codes.
