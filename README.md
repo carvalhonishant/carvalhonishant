@@ -18,3 +18,9 @@ SSH brute force detection in Splunk: SPL correlation search, a scheduled alert, 
 
 **[Lab 04: Python SSH Log Parser](https://github.com/carvalhonishant/lab-04-python-log-parser)**
 A Python tool that parses SSH logs and flags brute force, breaches and known bad IPs, with JSON output and automation friendly exit codes.
+
+**[Lab 05: AWS IAM Misconfiguration](https://github.com/carvalhonishant/lab-05-aws-iam-misconfig)**
+Built deliberate IAM misconfigurations in AWS, caught them with Prowler, remediated with the CLI, and verified with a before and after scan.
+
+**[Lab 06: Detecting IAM Attacks in CloudTrail](https://github.com/carvalhonishant/lab-06-aws-cloudtrail-detection)**
+Reconstructed an IAM attack from AWS CloudTrail and built a Python and boto3 tool that flags risky IAM activity by severity.
