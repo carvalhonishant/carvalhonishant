@@ -24,3 +24,6 @@ Built deliberate IAM misconfigurations in AWS, caught them with Prowler, remedia
 
 **[Lab 06: Detecting IAM Attacks in CloudTrail](https://github.com/carvalhonishant/lab-06-aws-cloudtrail-detection)**
 Reconstructed an IAM attack from AWS CloudTrail and built a Python and boto3 tool that flags risky IAM activity by severity.
+
+**[Lab 07: Elastic SIEM Detection](https://github.com/carvalhonishant/lab-07-elastic-siem)**
+Rebuilt the SSH brute force detection in Elastic: ES|QL queries, a scheduled detection rule that fires, and a Kibana dashboard.
